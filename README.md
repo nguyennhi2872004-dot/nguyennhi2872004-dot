@@ -1,16 +1,52 @@
-## Hi there 👋
+## 👋 Hi, I'm Nguyen Nhi
 
-<!--
-**nguyennhi2872004-dot/nguyennhi2872004-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Backend / Data Engineer  
+📍 Ho Chi Minh City, Vietnam  
+🧠 Focus: Backend Systems, Data & Database Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Professional Summary
+I am a backend-focused software engineer with strong interest in **data-centric systems and database-driven applications**.
+My experience centers around building **backend services, internal tools, and data-oriented solutions** that support real-world business workflows.
+
+I prioritize **clean architecture, efficient data handling, and system reliability** in the solutions I build.
+
+---
+
+### 🛠 Core Technical Skills
+- **Languages:** C#, JavaScript  
+- **Backend:** Node.js, Express  
+- **Data & Database:** MySQL, data modeling, query optimization  
+- **Tooling / Automation:** C#, .NET (internal tools, utilities)  
+- **Frontend (supporting):** HTML, CSS, React  
+- **Others:** Git, GitHub, Postman
+
+---
+
+### 📊 Backend & Data Expertise
+- RESTful API design & implementation  
+- Database schema design & normalization  
+- Data CRUD workflows & reporting  
+- Building internal tools for data processing  
+- System integration and backend logic handling
+
+---
+
+### 📌 Selected Work & Interests
+- Data-driven backend systems  
+- Internal tools built with **C# / .NET**  
+- Backend APIs for management & reporting systems  
+- Database-focused applications
+
+---
+
+### 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennhi2872004-dot&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhi2872004-dot&layout=compact)
+
+---
+
+### 📫 Contact
+- 📧 Email: yourmail@gmail.com  
+- 🌐 Facebook: nhinguyen287
